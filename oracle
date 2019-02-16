@@ -1,1 +1,1 @@
-FROM iad.ocir.io/oracle:0.3.0
+FROM iad.ocir.io/oracle/mysql-operator:0.3.0
